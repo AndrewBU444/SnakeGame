@@ -1,1 +1,1 @@
-# SnakeGame
+# Snake game written in html
